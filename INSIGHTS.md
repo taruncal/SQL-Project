@@ -102,8 +102,6 @@ Create "Family Meal Bundles" on Sundays (e.g., 2 Large Pizzas + Sides) to drive 
 
 
 
-
-
                   
 2. Optimize & Trim Low-Performing Menu Items
 
@@ -118,9 +116,6 @@ Action:
 Remove or rework The Brie Carré Pizza (lowest sales volume at 490 units) to reduce specialized ingredient waste.
 
 Consolidate low-selling veggie options (Green Garden & Spinach Pesto) into a single flagship vegetarian offering.
-
-
-
 
 
 
@@ -144,25 +139,8 @@ Late-Night Incentives: Introduce targeted late-night (8 PM–10 PM) digital disc
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
                      
 4. Rationalize Pizza Sizing & Margin Management                                   
-
-
-
-
 
 
 
